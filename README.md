@@ -1,2 +1,2 @@
-# cortega-endpoint-guard-releases-macos
-Public Releases for Cortega Endpoint Guard MacOs Intel & ARM
+# cortega-endpoint-guard
+Public Releases for Cortega Endpoint Guard MacOs (Intel & ARM) and Windows
